@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "repository": "https://github.com/bogyuni/supergulp",
   "author": "bogyuni <bogyuni@hotmail.com>",
+  "description": "Learn Gulp by building an development enviroment",
   "license": "MIT",
-  "description": "Learn Gulp by building an development enviroment"
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
