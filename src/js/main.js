@@ -1,6 +1,6 @@
-import { random } form "./util";
+import { random } from "./util";
 
 const rOne = random(10);
 const rTwo = random(20);
 
-Console.log(`${rOne} ${rTwo}`);
+console.log(`${rOne} ${rTwo}`);
